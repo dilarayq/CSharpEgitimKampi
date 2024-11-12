@@ -30,5 +30,5 @@
   Bu projede geriye değer döndüren metotlar ile tanışmış oldum. Kullanıcıdan aldığım verileri geriye değer döndüren metotlarla işlemiş oldum. 🤖
 
   ## 🪄 Proje 9: Veri Tabanlı Ürün-Kategori Bilgi Sistemi
-  Bu projede veri tabanını nasıl kullanacağımı ve C# ile nasıl ilişkilendireceğimi öğrendim. Kullanıcının seçmiş olduğu tabloyu listeleyen program geliştirdim. Bu projeyle hem 
+  Bu projede veri tabanını nasıl kullanacağımı ve C# ile nasıl ilişkilendireceğimi öğrendim. Kullanıcının seçmiş olduğu tabloyu listeleyen program geliştirdim. Bu projeyle 
   veritabanı hakkında bilgi sahibi olurken kullanmış olduğumuz SqlConnection ve SqlCommand sınıflarıyla bağlantı kurmayı ve veri çekmeyi öğrendim. 📉
