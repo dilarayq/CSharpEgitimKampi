@@ -22,7 +22,7 @@
   Kod yoğunluğunu azaltarak daha az kod yazmayı ve gereken fonksiyonu fazla kod yazmadan çağırmayı öğrendim. Parametre alarak işlem yapan ve değer döndüren fonksiyonlar 
   üzerinde çalıştım. 🔑
 
-  ## 🪄 Proje 7: Foreach DÖngüsü ve Sınav Uygulaması
+  ## 🪄 Proje 7: Foreach Döngüsü ve Sınav Uygulaması
   Bu projede foreach döngüsü üzerinde daha detaylı çalışarak bir simülasyona dahil ettim. Yapmış olduğum projede farklı karar yapıları ve döngüler kullanarak öğrencilerin girmiş oldukları 
   sınavlardan aldıkları notlarını hesaplayıp geçme/kalma durumunu belirleyen bir program geliştirmiş oldum. 📝
 
