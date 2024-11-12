@@ -1,0 +1,7 @@
+C:\Users\yilma\OneDrive\Masaüstü\C#\05_LoopsWihtStars\05_LoopsWihtStars\bin\Debug\05_LoopsWihtStars.exe.config
+C:\Users\yilma\OneDrive\Masaüstü\C#\05_LoopsWihtStars\05_LoopsWihtStars\bin\Debug\05_LoopsWihtStars.exe
+C:\Users\yilma\OneDrive\Masaüstü\C#\05_LoopsWihtStars\05_LoopsWihtStars\bin\Debug\05_LoopsWihtStars.pdb
+C:\Users\yilma\OneDrive\Masaüstü\C#\05_LoopsWihtStars\05_LoopsWihtStars\obj\Debug\05_LoopsWihtStars.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\C#\05_LoopsWihtStars\05_LoopsWihtStars\obj\Debug\05_LoopsWihtStars.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\C#\05_LoopsWihtStars\05_LoopsWihtStars\obj\Debug\05_LoopsWihtStars.exe
+C:\Users\yilma\OneDrive\Masaüstü\C#\05_LoopsWihtStars\05_LoopsWihtStars\obj\Debug\05_LoopsWihtStars.pdb
